@@ -24,7 +24,7 @@ Códigos subidos por fecha en la carpeta "codigos".
 
 Conversaciones con Claude al final del ReadMe.
 
-Visualizar proyecto: https://wokwi.com/projects/480722608786043905
+Visualizar proyecto: [Wokwi - proyecto-3](https://wokwi.com/projects/480722608786043905) 
 
 ---
 
